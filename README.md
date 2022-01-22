@@ -4,8 +4,8 @@ dataset is obtain from kaggle.com.
 various NLP technique were performed to obtain the maximim accuracy.
 
 in this model the steps involved are:
-step1:Imported the Dataset.
-step2:Data Exploration.
+step1:Imported the Dataset./n
+step2:Data Exploration./n
 step3:Stemmimg is done using PorterStemmer.
 step4:Bag of Words are obtained using CounterVetorizer.
 step5:split the data into test and train.
