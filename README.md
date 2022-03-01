@@ -17,7 +17,7 @@ in this model the steps involved are:
 
    step6: modelling: 
 
-       note:modelling is done using two model i.e
+       note:modelling is done  three model i.e
        
             1.CounterVectorizer. 
             
